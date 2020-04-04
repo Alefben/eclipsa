@@ -1,0 +1,15 @@
+{
+	"client": {
+		"token": "token",
+		"ownerID": "257170205883629580",
+		"defaultPrefix": "/"
+	},
+	"files":{
+		"commandFolder": "commands",
+		"eventFolder": "events"
+	},
+	"activity":{
+		"type": "PLAYING",
+		"name": "v0.3b-build9|rewrite"
+	}
+}
