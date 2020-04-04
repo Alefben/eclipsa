@@ -1,8 +1,8 @@
 {
 	"client": {
 		"token": "token",
-		"ownerID": "257170205883629580",
-		"defaultPrefix": "/"
+		"ownerID": "owner-id",
+		"defaultPrefix": "default-prefix"
 	},
 	"files":{
 		"commandFolder": "commands",
@@ -10,6 +10,6 @@
 	},
 	"activity":{
 		"type": "PLAYING",
-		"name": "v0.3b-build9|rewrite"
+		"name": "playing status goes here"
 	}
 }
