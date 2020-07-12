@@ -1,13 +1,11 @@
-exports.run = (Client, message) => {
+module.exports = {
+	run: function(Client, message) {
+		return message.channel.send("Pong!");
+	},
 	
-	return message.channel.send("Pong!");
-	
-}
-
-exports.config = {
-	
-	name: "ping",
-	usage: "[prefix]ping",
-	isOwnerOnly: false
-	
+	config: {
+		name: "ping",
+		usage: "[prefix]ping",
+		isOwnerOnly: false
+	}
 }
