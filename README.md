@@ -13,4 +13,5 @@ Eclipsa is a Discord bot project for my server. I'm making this bot because I re
 * Clone this repo.
 * Fill the `storage.json` as your liking.
 * Run `npm i` in the main directory
-* You're done!
+* After finished, run `node index.js`
+* You're done, your instance of Eclipsa is running!
